@@ -421,6 +421,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [torrent](https://github.com/anacrolix/torrent) - BitTorrent client package.
     * [dht](https://godoc.org/github.com/anacrolix/dht) - BitTorrent Kademlia DHT implementation.
     * [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - Video streaming torrent client.
+* [Fission](https://github.com/fission/fission) - Fast serverless functions for Kubernetes, which supports Go.
+* [Fission Workflows](https://github.com/fission/fission-workflows) - A workflow engine allowing for fast and reliable serverless function composition.
+
 
 ## Email
 
